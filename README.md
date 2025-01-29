@@ -39,13 +39,7 @@ http://localhost/roadways/
 
 📷 Screenshots 
 ### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Booking Page
-![Booking Page](screenshots/booking.png)
-
-### Driver Dashboard
-![Driver Dashboard](screenshots/driver-dashboard.png)
+![Homepage](screenshots/HomePage.png)
 
 
 🤝 Contributing
