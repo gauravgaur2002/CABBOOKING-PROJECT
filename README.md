@@ -39,7 +39,7 @@ http://localhost/roadways/
 
 📷 Screenshots 
 ### Homepage
-![Homepage](screenshots/HomePage.png)
+![Homepage](/HomePage.png)
 
 
 🤝 Contributing
